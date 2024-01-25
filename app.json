@@ -1,0 +1,50 @@
+{
+    "name": "🔱 𝑪𝑹 🔱",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/185c4b44ed5e161403c1a.jpg",
+    "repository": "https://github.com/Darksourcebot/e3dam_collect",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/Darksourcebot/e3dam_collect",
+    "env": {
+        "api_id": {
+            "description": "ايبي ايدي",
+            "value": "15986212",
+            "required": true
+        },
+        "api_hash": {
+            "description": "ايبي هاش",
+            "value": "6c6ac02bc91d512401c09279f4e69837",
+            "required": true
+        },
+        "DEVLOO": {
+            "description": "ايـدي الـمـطور",
+            "value": "6650021309",
+            "required": true
+        },
+        "bot_token": {
+            "description": "توكن البوت",
+            "value": "6526964621:AAHMd_mVmTmAJNJvjmgCy6TsS7mZbavhtxY",
+            "required": true
+        },
+        "user_bot": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "COLLCT_E3DAMBOT",
+            "required": true
+        },
+        "id_bot": {
+            "description": "ايدي البوت",
+            "value": "6526964621",
+            "required": true
+        },
+    "session": {
+        "description": "كود تيرمكـس",
+        "value": "",
+        "required": true
+    }
+  }
+} 
